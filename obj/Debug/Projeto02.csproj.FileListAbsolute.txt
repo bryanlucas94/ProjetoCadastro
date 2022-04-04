@@ -1,0 +1,8 @@
+C:\Users\vera-\source\repos\Projeto02\Projeto02\bin\Debug\Projeto02.exe.config
+C:\Users\vera-\source\repos\Projeto02\Projeto02\bin\Debug\Projeto02.exe
+C:\Users\vera-\source\repos\Projeto02\Projeto02\bin\Debug\Projeto02.pdb
+C:\Users\vera-\source\repos\Projeto02\Projeto02\obj\Debug\Projeto02.csproj.AssemblyReference.cache
+C:\Users\vera-\source\repos\Projeto02\Projeto02\obj\Debug\Projeto02.csproj.SuggestedBindingRedirects.cache
+C:\Users\vera-\source\repos\Projeto02\Projeto02\obj\Debug\Projeto02.csproj.CoreCompileInputs.cache
+C:\Users\vera-\source\repos\Projeto02\Projeto02\obj\Debug\Projeto02.exe
+C:\Users\vera-\source\repos\Projeto02\Projeto02\obj\Debug\Projeto02.pdb
